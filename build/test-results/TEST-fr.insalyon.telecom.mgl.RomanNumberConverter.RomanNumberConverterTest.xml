@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2015-06-16T12:38:10" hostname="TC405-114-09.insa-lyon.fr" time="0.01">
+  <properties/>
+  <testcase name="check_MMMMMDCXLIX" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.004"/>
+  <testcase name="check_1000" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.0"/>
+  <testcase name="check_XCIX" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.0"/>
+  <testcase name="check_null" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.001"/>
+  <testcase name="check_100" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.0"/>
+  <testcase name="check_555" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.0"/>
+  <testcase name="check_666" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.0"/>
+  <testcase name="check_1" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.0"/>
+  <testcase name="check_2" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.0"/>
+  <testcase name="check_I" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.0"/>
+  <testcase name="check_unreckognized" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.0"/>
+  <testcase name="check_CI" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.001"/>
+  <testcase name="check_IC" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.0"/>
+  <testcase name="check_II" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.0"/>
+  <testcase name="check_Ii" classname="fr.insalyon.telecom.mgl.RomanNumberConverter.RomanNumberConverterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

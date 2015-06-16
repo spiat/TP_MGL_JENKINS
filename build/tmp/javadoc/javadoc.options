@@ -1,0 +1,6 @@
+-classpath '/home/spiat/SPIAT_TP-TD/4TC/MGL/TP4_Tests/build/classes/main:/home/spiat/SPIAT_TP-TD/4TC/MGL/TP4_Tests/build/resources/main'
+-d '/home/spiat/SPIAT_TP-TD/4TC/MGL/TP4_Tests/build/docs/javadoc'
+-doctitle 'roman-numbers API'
+-quiet 
+-windowtitle 'roman-numbers API'
+'/home/spiat/SPIAT_TP-TD/4TC/MGL/TP4_Tests/src/main/java/hello/Hello.java'
